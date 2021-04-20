@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m redux_async
+git commit -m react-redux
 git push
