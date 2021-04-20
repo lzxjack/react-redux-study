@@ -1,7 +1,7 @@
 // 该文件创建一个为Count组件服务的reducer，reducer本质是一个函数
 // reducer函数接收两个参数，之前的状态preState，动作对象action
 
-import { INCREMENT, DECREMENT } from './constant';
+import { INCREMENT, DECREMENT } from '../constant';
 
 // 设定初始化状态为0.
 const initState = 0;
