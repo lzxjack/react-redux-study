@@ -1,4 +1,4 @@
 @echo off
 git add .
-git commit -m react-redux-optimized
+git commit -m react-redux-UI
 git push
